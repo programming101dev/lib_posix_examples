@@ -4,8 +4,6 @@ project(p101_posix_examples
         DESCRIPTION ""
         LANGUAGES C)
 
-message(STATUS "Compiler being used: ${CMAKE_C_COMPILER}")
-
 add_subdirectory(aio)
 add_subdirectory(arpa)
 add_subdirectory(ctype)

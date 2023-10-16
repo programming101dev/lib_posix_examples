@@ -3,5 +3,3 @@ project(p101_posix_examples_sys_times
         VERSION 0.0.1
         DESCRIPTION ""
         LANGUAGES C)
-
-message(STATUS "Compiler being used: ${CMAKE_C_COMPILER}")
