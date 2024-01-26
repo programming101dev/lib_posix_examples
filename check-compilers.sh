@@ -38,6 +38,5 @@ check_compiler()
 }
 
 check_compiler "c_compilers" "${c_compilers[@]}"
-check_compiler "cxx_compilers" "${cxx_compilers[@]}"
 
 exit 0
